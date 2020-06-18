@@ -1,8 +1,6 @@
-# Generic-Website
- Generic site developed to learn and train about Bootstrap 4. This project has no financial purpose and was started just to learn more and improve my professional knowledge about the framework.
-
 # Projeto Generic-Website
- Projeto pessoal desenvolvido para entendimento e prática do framework Bootstrap 4. O objetivo era desenvolver uma aplicação front-end com os recursos do framework.
+  Generic site developed to learn and train about Bootstrap 4. This project has no financial purpose and was started just to learn more and improve my professional knowledge about the framework.
+  Site genérico desenvolvido para aprender e treinar sobre o Bootstrap 4. Este projeto não tem finalidade financeira e foi iniciado apenas para aprender mais e melhorar meu conhecimento profissional sobre o framework.
 ***
 ## Tecnologias empregadas:
 * HTML
